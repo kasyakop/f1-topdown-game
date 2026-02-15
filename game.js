@@ -55,7 +55,7 @@ startBtn.style.transform = "translate(-50%, -50%)";
 startBtn.style.width = "460px";
 startBtn.style.height = "128px";
 startBtn.style.background = "rgba(0,0,0,0.02)";
-startBtn.style.border = "1px solid black";
+startBtn.style.border = "none";
 startBtn.style.color = "rgba(0,0,0,0)";
 startBtn.style.cursor = "pointer";
 startBtn.style.zIndex = "2000";
@@ -978,4 +978,5 @@ function loop() {
 }
 
 loop();
+
 
