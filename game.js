@@ -24,7 +24,7 @@ let currentEngine = engineSoundA;
 let nextEngine = engineSoundB;
 let engineStarted = false;
 
-const CAMERA_ZOOM = 1.75; // можешь менять 1.2, 1.5, 2 и т.д.
+const CAMERA_ZOOM = 1.8; // можешь менять 1.2, 1.5, 2 и т.д.
 
 // ===== СТАРТОВЫЙ ЭКРАН =====
 const startImage = new Image();
@@ -978,3 +978,4 @@ function loop() {
 }
 
 loop();
+
